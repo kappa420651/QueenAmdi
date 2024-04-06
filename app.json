@@ -8,18 +8,19 @@
         "multi-device"
     ],
     "website": "https://amdaniwasa.com/",
-    "repository": "https://github.com/BlackAmda/QueenAmdi",
+    "repository": "https://github.com/kappa420651/QueenAmdi",
     "logo": "https://amdaniwasa.com/assets/QAAppjson.gif",
     "success_url": "https://dashboard.heroku.com/apps/",
     "env": {
         "HEROKU": {
             "description": "Are you deploying the bot in heroku or not?",
             "required": true,
-            "value": "YES"
+            "value": "NO"
         },
         "HEROKU_APP_NAME": {
             "description": "Use the same App name as first.",
-            "required": true
+            "required": true,
+            "value": "queenamdi2k19"
         },
         "LANGUAGE": {
             "description": "Bot language",
