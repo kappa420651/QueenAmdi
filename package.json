@@ -1,5 +1,5 @@
 {
-    "name": "queen_amdi-multi_device",
+    "name": "queen_amdi_2k19",
     "version": "4.0.8",
     "description": "Queen Amdi [WA Multi-device] - A WhatsApp based third party application that provide many services with a real-time automated conversational experience.",
     "main": "./assets/amdiModule.js",
@@ -11,7 +11,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/BlackAmda/QueenAmdi.git"
+        "url": "git+https://github.com/kappa420651/QueenAmdi.git"
     },
     "engines": {
         "node": "18.x"
@@ -19,13 +19,13 @@
     "keywords": [
         "whatsapp"
     ],
-    "author": "Black Amda",
-    "developer": "AN Tech",
+    "author": "2k19",
+    "developer": "kk",
     "license": "GPL-3.0-or-later",
     "bugs": {
-        "url": "https://github.com/BlackAmda/QueenAmdi/issues"
+        "url": "https://github.com/kappa420651/QueenAmdi/issues"
     },
-    "homepage": "https://github.com/BlackAmda/QueenAmdi#readme",
+    "homepage": "https://github.com/kappa420651/QueenAmdi#readme",
     "dependencies": {
         "@adiwajshing/baileys": "git+https://github.com/AN-Tech-Crew/BaileysForQueenAmdi.git#3e8a609ad9779ee2ac1726bd63c9736f69231c48",
         "@adiwajshing/keyed-db": "^0.2.4",
